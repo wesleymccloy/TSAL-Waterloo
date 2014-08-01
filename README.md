@@ -6,6 +6,7 @@ This is where I am currently keeping my EAGLE files for the UW Electric Motor-sp
 
 
 
+<<<<<<< HEAD
 ###The Wiki (on the right) has more information and photos too!
 
 
