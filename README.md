@@ -6,12 +6,9 @@ This is where I am currently keeping my EAGLE files for the UW Electric Motor-sp
 
 
 
-###The Wiki (on the right) has more information and photos too!
+###Look at the pictures of the PCB and schematic!
 
-
-##Where I got the information
-
-Most of the work behind designing the schematic and choosing the values of components comes from:
+##Credit to:
 
 > **Marc-Andre Vaillancourt**: *Circuit detecteur de haute tension pour une voiture electrique* (2011)
 > [A link to the report](https://code.google.com/p/tsalivd/)
